@@ -1,7 +1,7 @@
 
       h1{border-style:solid;
-	     border-color:skyblue;
-	     background-color:skyblue;
+	     border-color:#09102c;
+	     background-color:#09102c;
 	     height:50px;
 	     padding-top:10px;
 	     padding-left:500px;
@@ -29,4 +29,5 @@
 		padding-top:50px;}
 		
 	p{text-align:center;
+
 	color:black;}
